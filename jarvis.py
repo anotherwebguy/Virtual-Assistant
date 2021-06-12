@@ -356,9 +356,10 @@ def Take_query():
             pyautogui.press("volumemute")
             continue
 
-        elif "what\'s the internet speed" in query or "internet speed" in query:
+        elif "what is my internet speed" in query or "internet speed" in query:
             st = speedtest.Speedtest()
             print(f"Download speed is {st.download()} and upload speed is {st.upload()}")
+            speak(f"Download speed is {st.download()} and upload speed is {st.upload()}")
             continue
 
         elif "Check my internet connection" in query or "internet avilablity" in query or "internet connection" in query:
