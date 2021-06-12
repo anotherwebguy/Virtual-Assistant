@@ -1,4 +1,4 @@
-<h1 align="center"> 🤖Jarvis🤖 <br> Virtual Desktop Application </h1>
+<h1 align="center"> 🤖Jarvis🤖 <br> Virtual Desktop Assistant </h1>
 <div align="center">
 
 ![Forks](https://img.shields.io/github/forks/anotherwebguy/Virtual-Assistant)
