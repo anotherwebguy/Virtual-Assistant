@@ -22,14 +22,6 @@ It is a console-based virtual assistant. It has a lot of features, including ope
 ## Video Demo
 https://drive.google.com/file/d/1xbfFdFTLclhAsqgFJFysXrjO_F4laQx7/view?usp=sharing
 
-## Getting started-
-1. Clone the repo.
-2. `pip install -r requirements.txt` to install all requirements, some of the things you may need to install manually so check requirements.txt file.
-If anything is failing (or giving error) then skip that package or try to install that manually by searching on Google about that package. It's not a big deal.
-3. Run `jarvis.py` file.
-4. Installation may take time.
-5. Watch *tutorial(Video-Demo)* and read *Features* for more information before getting started.
-
 ## Important Modules Needed
 ### 1. pyttsx3:
     For converting text to speech
@@ -65,5 +57,15 @@ If anything is failing (or giving error) then skip that package or try to instal
   10. Basic calculations
   11. Find your location
   12. check internet speed and availablity
+
+## Getting started-
+1. Clone the repo.
+2. `pip install -r requirements.txt` to install all requirements, some of the things you may need to install manually so check requirements.txt file.
+If anything is failing (or giving error) then skip that package or try to install that manually by searching on Google about that package. It's not a big deal.
+3. Run `jarvis.py` file.
+4. Installation may take time.
+5. Watch *tutorial(Video-Demo)* and read *Features* for more information before getting started.
+
+
 
 
