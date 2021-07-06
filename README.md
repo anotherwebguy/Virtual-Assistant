@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1xbfFdFTLclhAsqgFJFysXrjO_F4laQx7/view?usp=shari
 
 ## Important Modules Needed
 ### 1. pyttsx3:
-    For converting text to speech
+    For converting text to speech.
 ### 2. SpeechRecognition:
     For converting speech to text and recognizin audio
 ### 3. webbrowser:
